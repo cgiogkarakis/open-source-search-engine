@@ -1,4 +1,4 @@
-se2
-===
+open-source-search-engine
+=========================
 
-An open source web and enterprise search engine for Linux on Intel/AMD . Currently in use on Gigablast dot com. Click on the README file below for details.
+An open source web and enterprise search engine. As can be seen http://www.gigablast.com/ 

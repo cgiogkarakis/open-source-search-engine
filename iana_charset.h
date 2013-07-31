@@ -1,5 +1,5 @@
 // iana_charset.h
-// Generated automatically by parse_iana_charsets.pl Mon Jul 29 04:14:20 2013
+// Generated automatically by parse_iana_charsets.pl Wed Jul 31 00:00:57 2013
 // DO NOT EDIT!!!
 
 #ifndef IANA_CHARSET_H__

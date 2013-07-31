@@ -284,8 +284,8 @@ key224_t Linkdb::makeKey_uk ( uint32_t  linkeeSiteHash32       ,
 			      uint32_t linkerSiteHash32 ,
 			      bool      isDelete         ) {
 
-	if ( linkerSiteRank > LDB_MAXSITERANK ) { char *xx=NULL;*xx=0; }
-	if ( linkerHopCount > LDB_MAXHOPCOUNT ) { char *xx=NULL;*xx=0; }
+	//if ( linkerSiteRank > LDB_MAXSITERANK ) { char *xx=NULL;*xx=0; }
+	//if ( linkerHopCount > LDB_MAXHOPCOUNT ) { char *xx=NULL;*xx=0; }
 
 	// mask it
 	linkeeUrlHash64 &= LDB_MAXURLHASH;
